@@ -18,4 +18,4 @@ Ch. 7: The Sampling Theorem
 
 Ch. 9: The Laplace Transform
 
-Feel free to use them in your teaching and/or study. All errors are mine!
+Feel free to use them in your teaching and/or study.
